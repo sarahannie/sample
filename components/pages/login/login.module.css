@@ -1,0 +1,103 @@
+.header{
+    width: 100%; 
+    height: 100%; 
+    padding-top: 105px; 
+    padding-bottom: 17.75px; 
+    padding-left: 34.52px; 
+    padding-right: 34.52px; 
+    background: linear-gradient(0deg, white 0%, white 100%); 
+    box-shadow: 0px 5.917050838470459px 8.87557601928711px rgba(99.88, 99.88, 99.88, 0.07); 
+    border-top-left-radius: 49.31px; border-top-right-radius: 49.31px; 
+    justify-content: center; 
+    align-items: flex-start; gap: 9.86px; 
+    display: inline-flex
+}
+
+.container{
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    gap: 23.67px; 
+    display: inline-flex
+}
+
+.img{
+    width: 70px; 
+    height: 72px; 
+    border-radius: 5px
+}
+
+.contextHeader{
+    text-align: center; 
+    color: #0F515F; 
+    font-size: 29px; 
+    font-family: Inter; 
+    font-weight: 700; 
+    word-wrap: break-word
+}
+
+.emailCon{
+    width: 358.97px; 
+    padding: 17.75px; 
+    border-radius: 7.89px; 
+    border: 0.99px #B9B9B9 solid; 
+    justify-content: flex-start; 
+    align-items: flex-start; 
+    gap: 9.86px; 
+    display: inline-flex
+}
+
+.email{
+    color: #BEBEBE; 
+    font-size: 12.82px; 
+    font-family: Inter; 
+    font-weight: 500; 
+    line-height: 16.03px; 
+    word-wrap: break-word"
+}
+
+.passwordCon{
+    height: 55.23px; 
+    padding-left: 15.78px; 
+    padding-right: 15.78px; 
+    padding-top: 16.76px; 
+    padding-bottom: 16.76px; 
+    border-radius: 7.89px; 
+    border: 0.99px #B9B9B9 solid; 
+    flex-direction: column; 
+    justify-content: flex-start; 
+    align-items: flex-start; 
+    gap: 9.86px; 
+    display: flex
+}
+
+.pass{
+    justify-content: center; 
+    align-items: center; 
+    gap: 168.64px; 
+    display: inline-flex"
+}
+
+.passlabel{
+    color: #BEBEBE; 
+    font-size: 12.82px;
+     font-family: Inter; 
+     font-weight: 500; 
+     line-height: 16.03px; 
+     word-wrap: break-word
+}
+
+.passl{
+    width: 21.70px;
+     height: 21.70px; 
+     position: relative"
+}
+
+.passb{
+    width: 17.36px; 
+    height: 11.23px; 
+    left: 2.17px; 
+    top: 5.24px; 
+    position: absolute; 
+    background: #404040"
+}
