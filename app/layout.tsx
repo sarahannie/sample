@@ -35,7 +35,7 @@ export default function RootLayout({
 			<body
 				
 			>
-				<Providers themeProps={{ attribute: "class", defaultTheme: "dark" }}>
+				<Providers >
 					<div className="relative flex flex-col h-screen">
 						<Navbar />
 						<main className="">

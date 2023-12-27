@@ -14,7 +14,7 @@ const Home = () => {
         <div className={style.container}>
             <div className={style.cont}> 
           
-                <div className={style.login}>,<a href="/login">Login</a></div>
+                <div className={style.login}><a href="/login">Login</a></div>
             </div>
             <div className={style.cont2}>
                 <div className={style.register}>Register</div>
